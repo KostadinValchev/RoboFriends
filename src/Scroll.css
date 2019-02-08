@@ -1,0 +1,10 @@
+#roboCards {
+    overflow: scroll;
+    border: 1px solid black; 
+    height: 800px;
+ 
+}
+
+#roboCards::-webkit-scrollbar { 
+    display: none; 
+}
